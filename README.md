@@ -1,5 +1,5 @@
 ##  kodluyoruzilkrepo
 
-![Proje örnek fotoğrafımız!](about.jpg "Kodluyoruz Eğitimi")
+!(about.png)
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
